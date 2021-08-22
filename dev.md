@@ -5,3 +5,4 @@ dev c3
 dev c4
 
 dev c5
+dev c6
